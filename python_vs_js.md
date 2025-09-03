@@ -1,12 +1,36 @@
 # JavaScript vs Python
 
-| Feature              | JavaScript                                           | Python                                             |
-|----------------------|------------------------------------------------------|---------------------------------------------------|
-| **Purpose & Usage**  | Mainly for web development (front-end & back-end).   | General-purpose: data science, AI, backend, automation. |
-| **Syntax**           | Uses `{}` for blocks and often `;` to end statements.| Uses indentation (whitespace) for blocks.         |
-| **Typing System**    | Dynamically typed with loose type coercion.          | Dynamically typed, stricter and more predictable. |
-| **Runtime**          | Runs in browsers and Node.js.                        | Runs on Python interpreter.                       |
-| **OOP Style**        | Prototype-based object orientation.                  | Class-based object orientation.                   |
-| **Libraries**        | React, Angular, Vue, Express.js.                     | Django, Flask, TensorFlow, PyTorch, Pandas.       |
-| **Performance**      | Generally faster in web apps (V8 engine).            | Slower, but strong with optimized libraries.      |
-| **Community**        | Strong in web development.                           | Strong in data science, AI, research.             |
+## Features 
+Purpose & Usage, Syntax, Typing System, Runtime, OOP Style, Libraries, Performance, Community
+
+## Purpose & Usage
+- **JavaScrip** is mainly for website develompent (front-end and back-end),
+- **Python**'s general purpose is data science, AI backend and automation. 
+
+## Syntax
+- **JavaScrip** uses '{}' for blocks and often ';' to end statements,
+- **Python** uses indentation (whitespace) for blocks.
+
+## Typing System
+- **JavaScript** is dynamically typed with loose type coercion,
+- **Python** is dynamically typed, stricter and more predictable.
+
+## Run Time
+- **JavaScript** runs in browsers and Node.js,
+- **Python** runs on Python interpreter.
+
+## OOP Style
+- **JavaSript** has a prototype-based object orientation,
+- **Python** has a class-based object orientation.
+
+## Libraries
+- **JavaScript** has React, Angular, Vue, Express.js,
+- **Python** has Django, Flask, TensorFlow, PyTorch, Pandas.
+
+## Performance
+- **JavaScript** is generally faster in web apps (V8 engine),
+- **Python** is slower, but strong with optimized libraries.
+
+## Community
+- **JavaScript** is strong in web development,
+- **Python** is strong in data science, AI, research.
