@@ -4,7 +4,7 @@
 Purpose & Usage, Syntax, Typing System, Runtime, OOP Style, Libraries, Performance, Community
 
 ## Purpose & Usage
-- **JavaScrip** is mainly for website develompent (front-end and back-end),
+- ***JavaScrip*** is mainly for website develompent (front-end and back-end),
 - **Python**'s general purpose is data science, AI backend and automation. 
 
 ## Syntax
