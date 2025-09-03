@@ -8,7 +8,7 @@ Purpose & Usage, Syntax, Typing System, Runtime, OOP Style, Libraries, Performan
 - **Python**'s general purpose is data science, AI backend and automation. 
 
 ## Syntax
-- **JavaScrip** uses '''{}''' for blocks and often ''';''' to end statements,
+- **JavaScrip** uses `{}` for blocks and often `;` to end statements,
 - **Python** uses indentation (whitespace) for blocks.
 
 ## Typing System
